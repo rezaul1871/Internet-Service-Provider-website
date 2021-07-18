@@ -1,0 +1,41 @@
+.contatiner{
+    width: 90%;
+    padding-left: 200px;
+    text-align: center;
+    
+}
+.nevsection-container{
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+h1{
+    font-weight: 500;
+    font: caption;
+    font-size: 2em;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.pricesection {
+    background: chocolate;
+    height: 2px;
+    width: 55px;
+    margin: 0 auto;
+}
+.text-align{
+    text-align: center;
+}
+.contatiner1{
+    width: 90%;
+    padding-left: 200px;
+    text-align: center;
+    padding-bottom: 80px;
+}
+h2{
+    font-size: 2em;
+    font-weight: 500px;
+    text-align: center;
+    margin: 2px;
+    padding: 5px;
+    text-shadow: cyan;
+}
